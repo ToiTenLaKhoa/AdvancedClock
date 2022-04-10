@@ -1,2 +1,2 @@
-# KhoaCakeBlog
-Full Cake Blog Project
+# Clock
+Advanced Clock
